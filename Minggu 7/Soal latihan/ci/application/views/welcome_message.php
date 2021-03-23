@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
-    <title>E31191551_Calvinda Risky Adiputra</title>
+    <title>E31191894 - Ahmad Catur Yulianto</title>
 
     <style>
         .bd-placeholder-img {
@@ -47,23 +47,11 @@
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="<?= base_url() ?>">Home</a>
                         </li>
-						<li class="nav-item">
-                            <a class="nav-link" href="<?= base_url() ?>/Demo_view">Kode 1</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="<?= base_url() ?>/profil">Profil</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?= base_url() ?>/Demo_view2">Kode 2</a>
-                        </li>
-						<li class="nav-item">
-                            <a class="nav-link" href="<?= base_url() ?>/Demo_view3">Kode 3</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="<?= base_url() ?>/Demo_controller/">Controller</a>
-                        </li>
-						<li class="nav-item">
-                            <a class="nav-link" href="<?= base_url() ?>/Kode/php">Segment URI (Kode)</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="<?= base_url() ?>/Kode1/">Fungsi _remap() (Kode1)</a>
+                            <a class="nav-link" href="<?= base_url() ?>/contact">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -75,15 +63,15 @@
     <main class="flex-shrink-0">
         <div class="container">
             <h1 class="mt-5">Selamat Datang</h1>
-            <p class="lead">Program Minggu 7 - Latihan</p>
+            <p class="lead">Program Minggu 7 - Praktikum</p>
             <table>
                 <tr>
                     <td>Nama </td>
-                    <td> : Calvinda Risky Adiputra</td>
+                    <td> : Ahmad Catur Yulianto</td>
                 </tr>
                 <tr>
                     <td>NIM </td>
-                    <td> : E31191551</td>
+                    <td> : E31191894</td>
                 </tr>
                 <tr>
                     <td>Golongan </td>
@@ -91,7 +79,7 @@
                 </tr>
                 <tr>
                     <td>File Praktikum </td>
-                    <td> : <a class="btn" href="<?= base_url() ?>/Demo_view">Kode 1</a> | <a class="btn" href="<?= base_url() ?>/Demo_view2">Kode 2</a> | <a class="btn" href="<?= base_url() ?>/Demo_view3">Kode 3</a> | <a class="btn" href="<?= base_url() ?>/Demo_controller/">Controller</a> | <a class="btn" href="<?= base_url() ?>/Kode/php">Segment URI (Kode)</a> | <a class="btn" href="<?= base_url() ?>/Kode1/">Fungsi _remap() (Kode1)</a></td>
+                    <td> : <a class="btn" href="<?= base_url() ?>/contact">Contact</a> | <a class="btn" href="<?= base_url() ?>/profil">Profile</a></td>
                 </tr>
             </table>
         </div>
@@ -103,7 +91,7 @@
                 Copyright &copy;
                 <script>
                     document.write(new Date().getFullYear());
-                </script> All rights reserved by Vian Azis
+                </script> All rights reserved by Ahmad Catur Yulianto
             </span>
         </div>
     </footer>
