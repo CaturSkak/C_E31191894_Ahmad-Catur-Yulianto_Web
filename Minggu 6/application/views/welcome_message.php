@@ -75,17 +75,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<tr>
 				<td>Nama</td>
 				<td>:</td>
-				<td>Ahmad Catur Yulianto</td>
+				<td>Ahmad Catur Yulianto </td>
 			</tr>
 			<tr>
 				<td>NIM</td>
 				<td>:</td>
-				<td>E31191894</td>
+				<td>E31191894 </td>
 			</tr>
 			<tr>
 				<td>Golongan</td>
 				<td>:</td>
-				<td>C</td>
+				<td>C </td>
 			</tr>
 		</table>
 	</div>
