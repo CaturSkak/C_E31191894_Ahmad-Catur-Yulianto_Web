@@ -63,7 +63,7 @@
     <main class="flex-shrink-0">
         <div class="container">
             <h1 class="mt-5">Selamat Datang</h1>
-            <p class="lead">Program Minggu 7 - Praktikum</p>
+            <p class="lead">Program Minggu 7 - Latihan</p>
             <table>
                 <tr>
                     <td>Nama </td>
